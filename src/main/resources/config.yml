@@ -1,0 +1,12 @@
+
+messages:
+  announce: "&eИгрок {player} начал стрим! Нажмите &nздесь&r&e чтобы присоединиться"
+  invalid_url: "&cНедопустимая ссылка! Только YouTube/Twitch"
+  cooldown: "&cПодождите {time} секунд перед повторным использованием"
+  stream_off: "&aСтрим остановлен"
+  not_streaming: "&cУ вас нет активного стрима"
+  no_permission: "&cНедостаточно прав!"
+
+commands:
+  on_start: "say [Стрим] Игрок {player} начал трансляцию!"
+  on_stop: "say [Стрим] Игрок {player} завершил трансляцию"

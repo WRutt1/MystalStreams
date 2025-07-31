@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MystalStreams">
+    <output-path>$USER_HOME$/OneDrive/Рабочий стол/PluginsM</output-path>
+    <root id="archive" name="MystalStreams.jar">
+      <element id="module-output" name="MystalStreams" />
+    </root>
+  </artifact>
+</component>

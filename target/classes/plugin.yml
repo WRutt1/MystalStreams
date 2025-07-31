@@ -1,0 +1,15 @@
+name: MystalStreams
+version: '1.0'
+main: com.WRutt1.mystalStreams.MystalStreams
+api-version: '1.21'
+commands:
+  stream:
+    description: Управление стримами
+    usage: /stream <url|off>
+permissions:
+  mystalstreams.use:
+    description: Доступ к командам стримов
+    default: true
+  mystalstreams.nocooldown:
+    description: Обход перезарядки команды
+    default: op
